@@ -1,10 +1,8 @@
 AICTE Internship Project (AI/ML Domain – Electric Vehicles)
 
 Duration: 4 Weeks | Start Date: 27th October 2025
+Problem Statement
+This project aims to develop an AI-driven Charging Infrastructure Demand Forecast System that predicts the future requirement of EV charging stations across regions based on EV population growth, model types, and fuel eligibility data.
 
-📘 Project Overview
-
-This project was developed as part of the AICTE Internship on Artificial Intelligence and Machine Learning (AI/ML), under the Electric Vehicle (EV) domain.
-It focuses on integrating Generative AI with data-driven analytics to uncover insights from real-world EV data.
-
-Using the Electric Vehicle Population Dataset, the project applies data cleaning, preprocessing, and exploratory data analysis (EDA) to reveal patterns in EV adoption, model trends, and clean fuel eligibility.
+Using machine learning, the system analyzes historical EV registration data to forecast regional EV expansion and charging load for the next five years.
+A Generative AI component (e.g., GPT integration) automatically produces data-driven policy recommendations, summarizing which states or cities need urgent infrastructure scaling.
